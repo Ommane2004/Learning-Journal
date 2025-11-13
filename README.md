@@ -71,7 +71,7 @@ This repository is updated continuously to reflect my progress in cybersecurity,
 
 ## **Connect With Me**
 - LinkedIn:https://www.linkedin.com/in/omm2011/
-- Portfolio:om-mane-cybersecurity-7eepkzc.gamma.site/ 
+- Portfolio:https://om-mane-cybersecurity-7eepkzc.gamma.site
 - Email:ommane415518@gmail.com 
 
 ---
