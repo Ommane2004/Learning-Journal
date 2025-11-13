@@ -1,6 +1,3 @@
-# Learning-Journal
-This is my personal Cybersecurity Learning Journal, documenting my hands-on learning journey, project progress, and skill development. It includes detailed notes, lab exercises, Capture The Flag (CTF) challenges, scripts, and reflections to track growth over time.
-
 # 📝 Learning-Journal
 
 A structured repository documenting my **cybersecurity learning journey**, hands-on exercises, and skill development. This journal highlights my growth, practical experience, and problem-solving skills for recruiters and peers.
