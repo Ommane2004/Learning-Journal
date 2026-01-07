@@ -40,13 +40,6 @@ This repository serves as a comprehensive record of my ongoing learning and prac
 
 ---
 
-## **How to Use This Repository**
-1. Explore the folders to see concepts, labs, scripts, and CTF write-ups.  
-2. Follow the step-by-step guides in each exercise for hands-on learning.  
-3. Reference scripts and solutions as examples of automation, threat analysis, and ethical hacking techniques.  
-
----
-
 ## **Skills & Tools Highlighted**
 - **SOC & SIEM:** Splunk, ELK Stack basics  
 - **Network Security:** Packet analysis, firewalls, monitoring  
